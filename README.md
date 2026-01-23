@@ -7,3 +7,7 @@ Jeg startet prosjektet med å sette opp ruteren for å gi tilgang til nettverk o
 Senere oppstod det et problem med kommunikasjon mellom den fysiske PC-en og laptopen. De fikk forskjellige IP-adresser og befant seg derfor ikke i samme IP-nettverk. Dette gjorde at de ikke kunne finne hverandre. Løsningen var å sette statisk IP-adresse på den fysiske PC-en, slik at den fikk en IP-adresse i samme nettverksområde som laptopen. Etter dette fungerte nettverkstilkoblingen som forventet.
 
 Gjennom arbeidet har jeg lært mer om grunnleggende nettverksoppsett, spesielt hvordan rutere, IP-adresser, DHCP og statiske IP-adresser fungerer, og hvor viktig riktig konfigurasjon er for at enheter skal kunne kommunisere i et nettverk.
+
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/59aee5f3-ddb9-477e-89e8-d2f9e86ff67c" />
+
+Jeg lastet ned OBS og jeg fikk til å filme fra host pcen til ansatten.
